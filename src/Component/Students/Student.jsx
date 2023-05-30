@@ -23,7 +23,7 @@ const Student = () => {
             </thead>
             <tbody>
                 <tr>
-                  <td>Rahul</td>
+                  <td>Varad</td>
                   <td>24</td>
                   <td>MERN</td>
                   <td>December</td>
@@ -32,8 +32,8 @@ const Student = () => {
             </tbody>
             <tbody>
                 <tr>
-                  <td>Rahul</td>
-                  <td>24</td>
+                  <td>Varad</td>
+                  <td>23</td>
                   <td>MERN</td>
                   <td>December</td>
                   <td>Edit</td>
@@ -41,8 +41,8 @@ const Student = () => {
             </tbody>
             <tbody>
                 <tr>
-                  <td>Rahul</td>
-                  <td>24</td>
+                  <td>Varad</td>
+                  <td>23</td>
                   <td>MERN</td>
                   <td>December</td>
                   <td>Edit</td>
@@ -50,8 +50,8 @@ const Student = () => {
             </tbody>
             <tbody>
                 <tr>
-                  <td>Rahul</td>
-                  <td>24</td>
+                  <td>Varad</td>
+                  <td>23</td>
                   <td>MERN</td>
                   <td>December</td>
                   <td>Edit</td>
@@ -59,8 +59,8 @@ const Student = () => {
             </tbody>
             <tbody>
                 <tr>
-                  <td>Rahul</td>
-                  <td>24</td>
+                  <td>Varad</td>
+                  <td>23</td>
                   <td>MERN</td>
                   <td>December</td>
                   <td>Edit</td>
