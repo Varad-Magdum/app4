@@ -24,7 +24,7 @@ const Student = () => {
             <tbody>
                 <tr>
                   <td>Varad</td>
-                  <td>24</td>
+                  <td>23</td>
                   <td>MERN</td>
                   <td>December</td>
                   <td>Edit</td>
